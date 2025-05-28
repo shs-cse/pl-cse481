@@ -1,0 +1,11 @@
+{
+  "uuid": "5f2ee0ae-d8b7-4415-8f92-ed747b0b86a0",
+  "longName": "Spring 2025",
+  "allowAccess": [
+    {
+      "startDate": "2025-01-15T00:00:01",
+      "endDate": "2025-06-15T23:59:59",
+      "institution": "BracU"
+    }
+  ]
+}
